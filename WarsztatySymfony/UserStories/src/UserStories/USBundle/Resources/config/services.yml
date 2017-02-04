@@ -1,0 +1,4 @@
+services:
+#    us.example:
+#        class: UserStories\USBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
